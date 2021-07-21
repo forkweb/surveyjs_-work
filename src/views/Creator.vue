@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Survey Creator - create a new survey</h2>
+    <h2>Survey Creator s- create a new survey</h2>
     <survey-creator></survey-creator>
   </div>
 </template>
